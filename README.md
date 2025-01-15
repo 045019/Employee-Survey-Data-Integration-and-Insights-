@@ -8,7 +8,7 @@
 2. [Technologies Used](#technologies-used)
 3. [Features](#features)
 4. [Setup Instructions](#setup-instructions)
-5. [Dashboard](#Dasboard)
+5. [Dashboard](#dashboard)
 6. [Objective & Managerial Insights](#objective-&-managerial-insights)
 7. [How to Use the Project](#how-to-use-the-project)
 8. [Contributing](#contributing)
