@@ -9,7 +9,7 @@
 3. [Features](#features)
 4. [Setup Instructions](#setup-instructions)
 5. [Dashboard](#dashboard)
-6. [Objective & Managerial Insights](#objective-&-managerial-insights)
+6. [Objective & Managerial Insights](#Objective-&-Managerial-Insights)
 7. [How to Use the Project](#how-to-use-the-project)
 8. [Contributing](#contributing)
 9. [License](#license)
