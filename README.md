@@ -8,10 +8,11 @@
 2. [Technologies Used](#technologies-used)
 3. [Features](#features)
 4. [Setup Instructions](#setup-instructions)
-5. [Managerial Insights](#managerial-insights)
-6. [How to Use the Project](#how-to-use-the-project)
-7. [Contributing](#contributing)
-8. [License](#license)
+5. [Dashboard](#Dasboard)
+6. [Objective & Managerial Insights](#objective-&-managerial-insights)
+7. [How to Use the Project](#how-to-use-the-project)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Project Description
 
@@ -234,7 +235,7 @@ ON
     e.EmpID = s.EmpID;
 ```
 
-## Managerial Insights
+## Objective & Managerial Insights
 
 ### **Objective**
 
