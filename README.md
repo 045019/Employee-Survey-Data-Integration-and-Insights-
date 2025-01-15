@@ -280,9 +280,7 @@ To gain a deeper understanding of the workforce dynamics, identify key areas of 
 - **Enhance Work-Life Balance:** Implement policies and programs that promote work-life balance, such as flexible work arrangements, generous leave policies, and wellness programs.
 - **Improve Engagement in Division 4:** Conduct a thorough analysis of the factors contributing to lower performance in Division 4 and implement targeted interventions to improve engagement and performance. This could include:
   - **Supervisory training:** Provide training and coaching for supervisors to enhance their leadership skills, communication, and employee motivation.
-  - **Employee surveys
-
-:** Conduct regular employee surveys in Division 4 to gather feedback on their concerns, challenges, and suggestions for improvement.
+  - **Employee surveys:** Conduct regular employee surveys in Division 4 to gather feedback on their concerns, challenges, and suggestions for improvement.
   - **Performance reviews and goal setting:** Implement regular performance reviews and assist employees in setting clear, achievable goals.
 - **Boost Overall Engagement:** Conduct regular employee surveys, pulse checks, and feedback mechanisms to monitor engagement levels across the organization. Address any emerging issues proactively.
 - **Enhance Diversity and Inclusion:**
